@@ -12,6 +12,7 @@ public class CalcApp {
         System.out.println("Enter second number: ");
         int b = sc.nextInt();
         System.out.println("This is the new added line.");
+		System.out.println("this is changed in github.");
         System.out.println("Calci Result :-");
         System.out.println("Sum = " + (a + b));
         sc.close();
